@@ -24,13 +24,13 @@ Logged out user can search for 02
 #    Amazon.Select Product from Search Results
 
     #Logged out user can add product to cart
-    [Tags]  Smoke Run case number 3
+    [Tags]  Smoke Run case number 3.1
  #   Amazon.Search for Products
  #   Amazon.Select Product from Search Results
 #    Amazon.Add Product to Cart
 
 #Logged out user must sign in to check out
-    [Tags]  Smoke Run case number 4
+    [Tags]  Smoke Run case number 4.1
 #    Amazon.Search for Products
 #    Amazon.Select Product from Search Results
 #    Amazon.Add Product to Cart
