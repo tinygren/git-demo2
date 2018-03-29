@@ -12,12 +12,12 @@ Test Teardown  End Web Test
 # pybot -d results tests/teamit.robot
 
 *** Test Cases ***
-Logged out user can search for 00001
+Logged out user can search for 01
     [Tags]  Smoke Run case number 1
     TeamitGen.Search for Item1
     Log  doing part 1
     #Logged out user can view a product
-Logged out user can search for 00002
+Logged out user can search for 02
     [Tags]  Smoke Run case number 2
     TeamitGen.Search for Item2
 #    Amazon.Search for Products
